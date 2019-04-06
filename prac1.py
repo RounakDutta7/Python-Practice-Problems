@@ -2,7 +2,7 @@
 """
 Created on Sat Apr  6 11:01:44 2019
 
-@author: rounak
+@author: rounakd
 """
 
 #Create a program that asks the user to enter their name and their age.
