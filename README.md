@@ -1,14 +1,14 @@
 # Python Practice Problems
 This project includes python program solutions for beginners.
 
-# H3 Problem 1
+### Problem 1
 Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
 
 [Solution](solutions/prac1.py)
 
 ---
 
-# H3 Problem 2
+### Problem 2
 Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 
 Extras:
@@ -19,7 +19,7 @@ Extras:
 
 ---
 
-# H3 Problem 3
+### Problem 3
 Take a list and write a program that prints out all the elements of the list that are less than 5.
 
 Extras:
