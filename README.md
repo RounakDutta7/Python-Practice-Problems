@@ -1,15 +1,33 @@
 # Python Practice Problems
 This project includes python programming problems and solutions. Try to solve yourself before opening the solutions. I'll upload one or more problem everyday. So, be ready.
+
+## Level Description
+---
+Level 1:	Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.
+
+Level 2:	Intermediate means someone who has just learned Python, but already has a relatively strong programming background from before. He should be able to solve problems which may involve 3 or 3 Python classes or functions. The answers cannot be directly be found in the textbooks.
+
+Level 3:	Advanced. He should use Python to solve more complex problem using more rich libraries functions and data structures and algorithms. He is supposed to solve the problem using several Python standard packages and advanced techniques.
+
+---
+## Problem template
+---
+#### Question
+#### Solution
+---
+
 # Happy Coding!
 
-### Problem 1
+---
+
+### Problem 1 (Level 1)
 Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
 
 [Solution](solutions/prac1.py)
 
 ---
 
-### Problem 2
+### Problem 2 (Level 1)
 Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 
 Extras:
@@ -20,7 +38,7 @@ Extras:
 
 ---
 
-### Problem 3
+### Problem 3 (Level 1)
 Take a list and write a program that prints out all the elements of the list that are less than 5.
 
 Extras:
@@ -32,14 +50,14 @@ Extras:
 
 ---
 
-### Problem 4
+### Problem 4 (Level 1)
 Create a program that asks the user for a number and then prints out a list of all the divisors of that number. (If you don’t know what a divisor is, it is a number that divides evenly into another number. For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
 
 [Solution](solutions/prac4.py)
 
 ---
 
-### Problem 5
+### Problem 5 (Level 1)
 Take two lists, and write a program that returns a list that contains only the elements that are common between the lists (without duplicates). Make sure your program works on two lists of different sizes.
 
 Extras:
