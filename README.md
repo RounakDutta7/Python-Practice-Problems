@@ -2,7 +2,6 @@
 This project includes python programming problems and solutions. Try to solve yourself before opening the solutions. I'll upload one or more problem everyday. So, be ready.
 
 ## Level Description
----
 Level 1:	Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.
 
 Level 2:	Intermediate means someone who has just learned Python, but already has a relatively strong programming background from before. He should be able to solve problems which may involve 3 or 3 Python classes or functions. The answers cannot be directly be found in the textbooks.
@@ -11,14 +10,12 @@ Level 3:	Advanced. He should use Python to solve more complex problem using more
 
 ---
 ## Problem template
----
 #### Question
 #### Solution
 ---
 
 # Happy Coding!
 
----
 
 ### Problem 1 (Level 1)
 Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
