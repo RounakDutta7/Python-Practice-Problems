@@ -1,0 +1,38 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Apr  7 19:23:47 2019
+
+@author: rounak
+"""
+#using function
+def reverse(string):
+    str = ""
+    for x in string:
+        str = x + str
+    return str
+
+string = input("Enter a string: ")
+
+if string == reverse(string):
+    print(string + " is a palindrome.")
+else:
+    print(string + " is not a palindrome.")
+
+
+#using reversed built-in function
+def reverse(string):
+    str = "".join(reversed(string))
+    return str
+
+string = input("Enter another string: ")
+
+if string == reverse(string):
+    print(string + " is a palindrome.")
+else:
+    print(string + " is not a palindrome.")
+
+"""
+A string can be reversed in other way too. Like you can reverse a string using stack,
+using recursion and using extended slice systex.
+
+"""
