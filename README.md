@@ -67,3 +67,9 @@ Extras:
 
 ---
 
+### Problem 6 (Level 1)
+Ask the user for a string and print out whether this string is a palindrome or not. (A palindrome is a string that reads the same forwards and backwards.)
+
+[Solution](solutions/prac6.py)
+
+---
