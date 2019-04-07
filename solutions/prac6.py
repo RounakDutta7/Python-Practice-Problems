@@ -32,7 +32,7 @@ else:
     print(string + " is not a palindrome.")
 
 """
-A string can be reversed in other way too. Like you can reverse a string using stack,
+A string can be reversed in other ways too. You can reverse a string using stack,
 using recursion and using extended slice systex.
 
 """
