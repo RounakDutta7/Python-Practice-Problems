@@ -1,12 +1,14 @@
 # Python Practice Problems
 This project includes python programming problems and solutions. Try to solve yourself before opening the solutions. I'll upload one or more problem everyday. So, be ready.
 
+If you find any error in the codes below, feel free to fork and update, or you can contact me at - rounak.dutta.cs@gmail.com
+
 ## Level Description
-Level 1:	Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.
+- Level 1:	Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.
 
-Level 2:	Intermediate means someone who has just learned Python, but already has a relatively strong programming background from before. He should be able to solve problems which may involve 3 or 3 Python classes or functions. The answers cannot be directly be found in the textbooks.
+- Level 2:	Intermediate means someone who has just learned Python, but already has a relatively strong programming background from before. He should be able to solve problems which may involve 3 or 3 Python classes or functions. The answers cannot be directly be found in the textbooks.
 
-Level 3:	Advanced. He should use Python to solve more complex problem using more rich libraries functions and data structures and algorithms. He is supposed to solve the problem using several Python standard packages and advanced techniques.
+- Level 3:	Advanced. He should use Python to solve more complex problem using more rich libraries functions and data structures and algorithms. He is supposed to solve the problem using several Python standard packages and advanced techniques.
 
 ---
 ## Problem template
