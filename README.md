@@ -123,7 +123,7 @@ The Fibonnaci seqence is a sequence of numbers where the next number in the sequ
 ---
 
 ### Problem 11 (Level 2)
-Good morning! Here's your coding interview problem for today.   
+Here's your coding interview problem for today.   
 
 This problem was asked by **Google.**      
 
@@ -137,6 +137,23 @@ Here is an example:
 Write a program to determine whether a given input is a Toeplitz matrix.
 
 [Solution](solutions/prac11.py)
+
+---
+
+### Problem 12 (Level 2)
+Here's your coding interview problem for today.   
+
+This problem was asked by **PagerDuty**.  
+
+Given a positive integer N, find the smallest number of steps it will take to reach 1.   
+
+There are two kinds of permitted steps:   
+---> You may decrement N to N - 1.   
+---> If a * b = N, you may decrement N to the larger of a and b.   
+
+For example, given 100, you can reach 1 in 5 steps with the following route: 100 -> 10 -> 9 -> 3 -> 2 -> 1.
+
+[Solution](solutions/prac12.py)
 
 ---
 
